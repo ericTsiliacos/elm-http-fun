@@ -5,4 +5,4 @@
 * npm i
 * ./node_modules/json-server/bin/index.js good_db.json
 * elm-reactor
-* http://localhost:8000/Main.elm
+* link=http://localhost:8000/Main.elm
