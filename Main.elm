@@ -49,7 +49,7 @@ getPeople : Cmd Msg
 getPeople =
     let
         url =
-            "http://localhost:8000/people"
+            "http://localhost:3000/people"
     in
         Task.perform FetchFail FetchSucceed (Http.get decodePeople url)
 
