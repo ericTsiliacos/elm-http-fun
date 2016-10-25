@@ -1,0 +1,22 @@
+{
+  "name": "elm-http-fun",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.8.22"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericTsiliacos/elm-http-fun.git"
+  },
+  "author": "Eric Tsilicos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericTsiliacos/elm-http-fun/issues"
+  },
+  "homepage": "https://github.com/ericTsiliacos/elm-http-fun#readme"
+}
